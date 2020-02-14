@@ -1,0 +1,54 @@
+Code the test first. Then it fails then you code then it passes then you refactor.
+You know the feature is working
+Makes sure we have working software. We know when we are done.
+Surf as a guide
+Produces more maintainable code
+breakpoint() is a good way to stop the code at a certain point to then see what is happening
+
+TDD
+Test driven development
+It is what it says is
+You first right a test then you code
+Code the mininum to pass the test.
+Then once you are done the nyo uare done
+Basics of a test
+Knowing inputs, and know out puts
+All you do is an assertion
+
+Then you have testing framework that help you do this
+
+
+An example in the real life would normally be a user story
+Make a function that takes in two arguments. It should make 'dough' when given water and flour
+Pros
+- Technical Debt is reduced
+- Helps you know when you are done
+- Works more with AGILE
+- Working software
+- Code
+
+Cons
+- It takes longer
+- Expensive
+
+There is two types of testing.
+Unit Testing
+Integrating Testing
+
+
+What is Unit Testing?
+You give it known inputs and you know the known outputs
+
+Tests singular and unitery pieces of code
+
+We have an example in factoru_tests which is make dough
+then we also have bake
+then we have run factory
+
+# __name__ and __main__ in python
+This identifies where its being called from. If its being called directly, therefore not imported. Name will become __main__ if it is being imported, it will have the name of where it is coming from
+
+
+
+What is Integrating Testing?
+Tests code from end to end
